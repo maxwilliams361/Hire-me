@@ -24,7 +24,7 @@ h2 {
 .Future {
     font-family: 'Pangolin', cursive;
     Background-color: grey;
-    color: Red;
+    color: black;
 }
 
 h1:Hover {
@@ -65,12 +65,12 @@ div {
 
 ul {
     font-family: 'Pangolin', cursive;
-    color: red;
+    color: black;
 }
 
 p {
     font-family: 'Pangolin', cursive;
-    color: #27cc06;
+    color: black;
 }
 
 body {
