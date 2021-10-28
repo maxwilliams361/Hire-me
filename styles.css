@@ -1,0 +1,87 @@
+h1 {
+    Background-color: #e6300b;
+    color: #38c9d6;
+    font-family: 'Indie Flower', cursive;
+}
+
+img {
+    padding: 39px;
+    Width: 300px;
+    Height: 300px;
+    border: 26.5px groove red;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h2 {
+    background-color: #38c9d6;
+    color: #e6300b;
+    font-family: 'Xanh Mono', monospace;
+}
+
+.Future {
+    font-family: 'Pangolin', cursive;
+    Background-color: grey;
+    color: Red;
+}
+
+h1:Hover {
+    Background-color: yellow;
+}
+
+h2:Hover {
+    Background-color: #f29c0a;
+}
+
+div {
+    width: 115px;
+    height: 115px;
+    border: 2px solid grey;
+    float: left;
+    padding: 1px;
+    text-align: center;
+    border-radius: 30%;
+
+}
+
+.blue {
+    background-color: #3250a8;
+}
+
+.red {
+    background-color: #d91f0b;
+}
+
+.grey {
+    background-color: #948d8d;
+}
+
+.violet {
+    background-color: #3f00ff;
+}
+
+
+ul {
+    font-family: 'Pangolin', cursive;
+    color: red;
+}
+
+p {
+    font-family: 'Pangolin', cursive;
+    color: #27cc06;
+}
+
+body {
+    background: url("https://images.newindianexpress.com/uploads/user/imagelibrary/2019/3/7/w900X450/Take_in_the_Scenery.jpg") no-repeat fixed center;
+    background-size: cover;
+}
+
+ul:Hover {
+    Background-color: blue;
+}
+
+p:Hover {
+    Background-color: #ebe013;
+}
